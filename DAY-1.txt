@@ -1,0 +1,99 @@
+DAY-1
+
+About fullstack-->which contains frontend and backend and uses
+what is web development.
+where can it be used..?
+
+
+Applications-->2 types which can provide instructions and which can give instructions
+instagaram
+
+compiler->which converts human understandable language to machine understandable language.
+
+set of instructions->programming language
+
+set of programming language->Applications.
+
+we can also known as set of instructions can be called as application.
+
+two ways of applications->
+
+        with internet                    without internet
+
+         web applications                 standalone applications
+    
+         mobile app,desktop app           mobile app,desktop app
+   
+         storage,simple usage,security      battery,information/data
+         sharing
+
+ cloud->virtual storage
+ 
+ devops->which gives the feature to built the device.(aws,azure)
+
+ Devops is used to build the process which can enhance the application.
+
+ virtual machine can be created in cloud using aws.
+ 
+ virtual machine also known as server/webserver/public.
+
+ HOW WEB APPLICATION CAN WORKS:
+
+ client will give request to the server and the server get back response to the client.
+ 
+ web application can be built by using 3 layers presentation layer,application layer and    data layer.
+ 
+ In presentation layer we are presenting /collecting the data.
+
+ collected data can trasfers to the web server or application server through internet.
+
+ Then web server performs logic part and stores the data in database server.After proper storage the message can get back to the web server and the server get backs to the client.
+
+
+ DAY-2
+
+ 1.Full Stack Development
+
+ STACK: Collection of technologies
+
+ FRONTEND TECHNOLOGIES->HTML , CSS , JAVASCRIPT , ANGULARJS , REACTJS.
+ 
+ BACKEND TECHNOLOGIES->JAVA ,PYTHON, NODEJS ,GOO, PHP
+ 
+ DATABASE->SQL, MYSQL , PL/SQL
+ 
+ Libraries->Set of predefined code which ca be reused multiple times
+ 
+ Framework->Collection of libraries
+ 
+ Deployment->Taking code from the production environment to development environment.
+ 
+ AWS(AMAZON WEB SERVICES)->AWS is a cloud which will provide the storage to store the files. The name of the first Amazon Web Services (AWS) service, Amazon S3, begins with that word:   Simple Storage Service
+AWS SERVER
+
+ Firewall->A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+
+ IP ADDRESS:IP stands for Internet Protocol which is the set of rules governing the format of data sent via the internet or local network to be sent between devices on a network they contain location information and make devices accessible for communication.
+
+ Some of the backend technology frameworks:
+ 
+ Java->Springboot
+ 
+ Php->Laravel
+ 
+ Python->Dijango
+  
+ NodeJs->Express
+
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
